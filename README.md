@@ -5,7 +5,7 @@ For the sake of organization, documents are organized by the typical chronologic
 
 _Note:_ These documents are by no means comprehensive, nor are they intended to replace legal counsel. Especially for contracts, you should consult a legal professional to assure that documents fit both your business and local laws.
 
-Below are the typical 
+_Below are the typical project phases:_
 
 ## 1. Initial Lead
 After making contact with the prospective client, it's a good idea to learn more about the project, the client, and their business. Beyond the objective of determining the fit for the project, one of the main goals of this phase to start to put some parameters in place around the project.
