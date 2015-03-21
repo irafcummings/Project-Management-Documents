@@ -24,7 +24,3 @@ Common terms used throughout these documents, in lou of a glossary within each d
 
 ### Appendix B. Additional Resources
 Further external resources for project documents.
-
-*[S.O.W.]: Statement of Work 
-
-*[M.S.A.]: Master Services Agreement
