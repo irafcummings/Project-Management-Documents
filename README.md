@@ -1,7 +1,12 @@
-# Project-Management-Documents
+# Project Management Documents
 A collection of common documents for managing design and development projects for small studios and freelancers. The intention is to create a framework (in the conceptual sense) for project documents to make sure that the right questions are asked at each step of the process, and the right information is gathered from the client.
 
 For the sake of organization, documents are organized by the typical chronological phases of a project. Of course, no project is typical, so no doubt some documents will be used out of order.
+
+## How to Use These Documents
+The suggested use of these documents is to have the individual make copies of these files, and replace their own information and project details when needed. Most document will be a series of prompts to help guide the creation of documents that would be sent to a client and approved.
+
+Throughout the documents, any instance of [OWNER] should be replaced by the name of the individual or business that will be doing the work. Any instance of [CLIENT] should be replaced by the name of the client's business that will be commissioning the work.
 
 _Note:_ These documents are by no means comprehensive, nor are they intended to replace legal counsel. Especially for contracts, you should consult a legal professional to assure that documents fit both your business and local laws.
 
